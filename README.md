@@ -1,5 +1,7 @@
 # Agentic Quant Lab
 
+> Legacy repository name: `RLtrading`. This project now hosts the agentic quant research lab portfolio work.
+
 Agentic research workflow for quantitative strategies with explicit risk guardrails, reproducible backtests and paper-trading boundaries.
 
 This repository is a CTO-grade portfolio system: it shows how an AI research agent can plan market hypotheses, run deterministic backtests, evaluate risk and produce a decision report without pretending to be a live trading bot.
